@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anarix0
+- 👀 I’m interested in Minecraft & Discord Bots
+- 🌱 I’m currently learning python & html
+- 📫 Reach me on discord: AnariX#3416 or *garf#3416* (Temporary)
