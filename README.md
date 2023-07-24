@@ -4,8 +4,8 @@
 
 This is the place where I opensource stuff and host less of my sites.
 
-- 🔭 I’m currently working on a url shortener
-- 🌱 I’m currently learning html & js
+- 🔭 I’m currently working on a python app executioner
+- 🌱 I’m currently learning html & json
 - 👯 I’m looking to open source more projects.
 - 📫 How to reach me: https://dsc.gg/void0
 
