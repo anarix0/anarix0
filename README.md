@@ -1,4 +1,4 @@
-# Hi , I'm @anarix0
+# Hey, I'm @anarix0!
 ### stats
 ![anarix0's github stats](https://github-readme-stats.vercel.app/api?username=anarix0&theme=transparent&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
 ![anarix0's github streak](https://streak-stats.demolab.com?user=anarix0&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
