@@ -1,5 +1,5 @@
 # Hey, I'm @anarix0!
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/681177693831823363)](https://dev.discordprofiles.me/openspotify/681177693831823363)
+![spotify](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F681177693831823363&query=data.spotify.song&logo=spotify&logoColor=white&label=listening%20to&color=1db954)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,py,discord,figma,)](https://skillicons.dev)
 ### stats
