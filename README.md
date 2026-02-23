@@ -4,13 +4,11 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,py,ts,js,html,docker,flask,discord,figma)](https://skillicons.dev)
 <br>
-*I enjoy making stuff that do something*
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anarix0&show_icons=true&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarix0&size_weight=0.5&count_weight=0.5&theme=dark" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=anarix0&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anarix0&size_weight=0.5&count_weight=0.5&theme=dark" />
 </a>
 
 ### wakatime
 > this year
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=2faa&theme=dark&range=last_year&hide_title=true" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=2faa&theme=dark&range=last_year&hide_title=true" />
