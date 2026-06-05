@@ -11,4 +11,4 @@
 
 ### wakatime
 > this year
-<img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=2faa&theme=dark&range=last_year&hide_title=true" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=2faa&theme=dark&range=last_year&hide_title=true&langs_count=8" />
