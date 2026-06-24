@@ -9,6 +9,6 @@
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anarix0&size_weight=0.5&count_weight=0.5&theme=dark" />
 </a>
 
-### wakatime
+### hackatime
 > this year
-<img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=2faa&theme=dark&range=last_year&hide_title=true&langs_count=8" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=rajan&theme=dark&range=last_year&hide_title=true&langs_count=8&api_domain=hackatime.hackclub.com" />
