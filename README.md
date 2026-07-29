@@ -1,6 +1,6 @@
 # Heya!
-![spotify](https://badge.2faa.cc/badge)
-[![wakatime](https://wakatime.com/badge/user/97c3b31e-58d1-4e8a-ab75-895c0ff31c61.svg)](https://wakatime.com/@97c3b31e-58d1-4e8a-ab75-895c0ff31c61)
+[![spotify](https://badge.2faa.cc/badge)](https://stats.fm/2faa)
+[![wakatime](https://wakatime.com/badge/user/97c3b31e-58d1-4e8a-ab75-895c0ff31c61.svg)](https://hackatime.hackclub.com/@rajan)
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,py,ts,js,html,docker,flask,discord,figma)](https://skillicons.dev)
