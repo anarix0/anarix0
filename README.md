@@ -1,5 +1,5 @@
 # Heya!
-[![spotify](https://nocache.advaith.workers.dev/?url=https://badge.2faa.cc/badge)](https://stats.fm/2faa)
+[![spotify](https://badge.2faa.cc/badge?)](https://stats.fm/2faa)
 [![wakatime](https://wakatime.com/badge/user/97c3b31e-58d1-4e8a-ab75-895c0ff31c61.svg)](https://hackatime.hackclub.com/@rajan)
 <br>
 
